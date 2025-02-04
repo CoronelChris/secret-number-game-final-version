@@ -1,7 +1,5 @@
 # Juego del Número Secreto 🎲
 
-![Portada del Proyecto](ruta/a/tu/imagen.jpg)
-
 ## 📌 Insignias
 ![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
